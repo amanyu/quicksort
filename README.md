@@ -1,14 +1,4 @@
 ### QUICKSORT
-
-
-	       /|\ 
-	      / | \
-	     /  |  \
-	    /   |   \
-	   /    |    \
-__________/     |     \__________
-
-
 this program takes integer data and sort them in least possible time with time complexity -O(nlog(n)).
 
 fork this repo and compile it on your machine by typing:
